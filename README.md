@@ -23,3 +23,8 @@
   <li>Table Mode: Books are displayed in a structured table.</li>
   <li>Card Mode: Books are presented as cards, offering a more visual layout.</li>
 </ul>
+<h3>Future Features</h3>
+<ul>
+  <li>Search and Filter: Search for books by title, author, or year.</li>
+  <li>User Authentication: Add login and registration functionality </li>
+</ul>

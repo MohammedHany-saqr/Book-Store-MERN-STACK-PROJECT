@@ -8,3 +8,12 @@
   <li>Book Attributes: Each book has a title, author, and publish year.</li>
   <li>Responsive Design: The application is fully responsive and adapts to different screen sizes.</li>
 </ul>
+<h3>Tech Stack</h3>
+<ul>
+  <li>Frontend: React.js, HTML5, CSS3, Tailwind (or another CSS framework for responsive design)</li>
+  <li>Backend: Node.js, Express.js</li>
+  <li>Database: MongoDB, Mongoose for schema modeling</li>
+  <li>Authentication: JWT</li>
+</ul>
+<h3>Installation</h3>
+<p></p>

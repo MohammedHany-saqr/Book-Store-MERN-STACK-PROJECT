@@ -16,4 +16,10 @@
   <li>Authentication: JWT</li>
 </ul>
 <h3>Installation</h3>
-<p></p>
+<p>git clone https://github.com/MohammedHany-saqr/Book-Store-MERN-STACK-PROJECT.git</p>
+<h3>Usage</h3>
+<h4>Switching Between Modes:</h4>
+<ul>
+  <li>Table Mode: Books are displayed in a structured table.</li>
+  <li>Card Mode: Books are presented as cards, offering a more visual layout.</li>
+</ul>

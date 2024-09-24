@@ -1,5 +1,5 @@
 <h1>book store</h1>
-<p>This project is a responsive MERN stack web application that allows users to manage a collection of books. The application features two modes for displaying books—Table Mode and Card Mode—along with the ability to add, edit, delete, and view book details.</p>
+<h5>This project is a responsive MERN stack web application that allows users to manage a collection of books. The application features two modes for displaying books—Table Mode and Card Mode—along with the ability to add, edit, delete, and view book details.</h5>
 <h3>Features</h3>
 <ul>
   <li>Table Mode: Displays books in a structured, sortable table format.</li>
